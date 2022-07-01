@@ -1,0 +1,18 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Joao Felipi Cardoso, Gabriel Lopes Pereira",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^4.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
